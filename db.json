@@ -2,29 +2,37 @@
   "numbers":
 [
   {
+    "id": 1,
     "Letter":"A",
     "freq": 20000
 },
 {
+  "id": 2,
   "Letter":"B",
   "freq": 20100
 },
 {
+  "id": 3,
 "Letter":"C",
 "freq": 20200
 },
 {
+  "id": 4,
 "Letter":"D",
 "freq": 19900
 },
 {
+  "id": 5,
 "Letter":"E",
 "freq": 19950
 },
 {
+  "id": 7,
 "Letter":"F",
 "freq": 20090
-},   {
+},   
+{
+"id": 8,
 "Letter":"G",
 "freq": 20000
 }
