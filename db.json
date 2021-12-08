@@ -1,16 +1,29 @@
+[
+  {
+    "Letter":"A",
+    "freq": 20000
+},
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+  "Letter":"B",
+  "freq": 20100
+},
+{
+"Letter":"C",
+"freq": 20200
+},
+{
+"Letter":"D",
+"freq": 19900
+},
+{
+"Letter":"E",
+"freq": 19950
+},
+{
+"Letter":"F",
+"freq": 20090
+},   {
+"Letter":"G",
+"freq": 20000
 }
+]
