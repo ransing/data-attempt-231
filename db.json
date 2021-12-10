@@ -4,37 +4,44 @@
   {
     "id": 1,
     "Letter":"A",
-    "freq": 20000
+    "freq": 20000,
+    "number": 10
 },
 {
   "id": 2,
   "Letter":"B",
-  "freq": 20100
+  "freq": 20100,
+  "number": 10
 },
 {
   "id": 3,
 "Letter":"C",
-"freq": 20200
+"freq": 20200,
+"number": 10
 },
 {
   "id": 4,
 "Letter":"D",
-"freq": 19900
+"freq": 19900,
+"number": 10
 },
 {
   "id": 5,
 "Letter":"E",
-"freq": 19950
+"freq": 19950,
+"number": 10
 },
 {
   "id": 7,
 "Letter":"F",
-"freq": 2009
+"freq": 2009,
+"number": 10
 },   
 {
 "id": 8,
 "Letter":"G",
-"freq": 2000
+"freq": 2000,
+"number": 10
 }
 ]
 }
